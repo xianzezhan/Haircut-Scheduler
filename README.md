@@ -1,5 +1,3 @@
-# Haircut-Scheduler
-Haircut Scheduler
 I. File list
 ------------
 main.cpp            main driver for the project
@@ -94,4 +92,3 @@ Appointment 2: Shampoo & Haircut at 1300
 Appointment 3: Shampoo & Haircut at 2000
 Appointment 4: Haircut at 2100
 Finish Printing all schedules.
-
